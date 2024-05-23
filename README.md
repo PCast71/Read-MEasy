@@ -1,5 +1,5 @@
-# READM-MEasy
-  To streamline the creation process of the READMe files for your projects!
+# Read-Measy
+  Read-Measy is a command line application to streamline the creation of read me files for repos.
 
   ## Table of Contents
   -[License](#license)
@@ -10,7 +10,7 @@ This project is licensed under the MIT License - see [LICENSE](https://opensourc
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Usage
-  node.js, JSON, and markdown
+  In this project I used JSON, node.js, and javascript markdown to complete it.
 
   ## Contributors
   Patrick Castorena
@@ -18,7 +18,7 @@ This project is licensed under the MIT License - see [LICENSE](https://opensourc
   ## Tests
   To run tests on this application, use the following command:
 ```bash
-n/a
+There were no tests that took place.
 ```
 
 ## Questions
